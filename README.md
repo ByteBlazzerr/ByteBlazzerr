@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Aakanksha Ghodki (aka ByteBlazzerr)
+# 👋 Hi there! I'm Aakanksha Ghodki
 
 I’m a final-year IT student at IET DAVV, Indore, passionate about building full-stack web applications. I love crafting seamless user experiences, exploring real-world tech solutions, and collaborating in hackathons to bring innovative ideas to life.
 
@@ -25,47 +25,6 @@ I’m a final-year IT student at IET DAVV, Indore, passionate about building ful
 ## 📈 My GitHub Stats
 
 ![Aakanksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteBlazzerr&show_icons=true&theme=radical)
-
----
-
-## 📚 Projects
-
-### 🔹 [Regal Retreat – Hotel Booking App](https://github.com/ByteBlazzerr/Regal-Retreat-solving)
-
-A MERN stack hotel booking platform  
-🛏️ Features: Hotel and room listings, Clerk-based authentication, Stripe payments, URL-based filtering  
-🔧 Tech: React, Node.js, Express, MongoDB
-
----
-
-### 🔹 [OCEAN: Smart Voyage Optimization](https://github.com/am1t0/ocean)
-
-Real-time AI-powered route planner for ships  
-🧠 Integrates Dijkstra’s Algorithm and OpenWeatherMap API for safety and fuel efficiency  
-🌐 Built for a hackathon with real-time weather data and Leaflet.js for map rendering
-
----
-
-### 🔹 [Study Syn](https://byteblazzerr.github.io/Study_Syn/)
-
-Educational landing page UI  
-🎓 Organized layout with study tracks and responsive design  
-🛠️ Tech: HTML, CSS, JavaScript
-
----
-
-### 🔹 [Portfolio Website](https://byteblazzerr.github.io/Portfolio/)
-
-A personal portfolio to showcase my skills and projects  
-🖌️ Highlights key work and includes live GitHub integrations
-
----
-
-### 🔹 [Restaurant Website](https://byteblazzerr.github.io/Restaurant_website/)
-
-A responsive single-page restaurant UI  
-🍴 Showcases menu, reservation, and contact sections  
-💻 Built with HTML and CSS
 
 ---
 
