@@ -30,7 +30,6 @@ I’m a final-year IT student at IET DAVV, Indore, passionate about building ful
 
 - **[OCEAN: Smart Voyage Optimization](https://github.com/am1t0/ocean)** *(built in a team of 4)*  
   Maritime routing system using Dijkstra's algorithm, Leaflet.js map rendering, JWT authentication, and OpenWeather API.  
-  🔗 [Live Demo](https://ocean-gold.vercel.app)
 
 ---
 
